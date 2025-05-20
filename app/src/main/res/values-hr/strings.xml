@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="add_note">Dodaj bilješku</string>
+    <string name="note_hint">Unesi svoju bilješku ovdje</string>
+    <string name="save">Spremi</string>
+    <string name="notes">Bilješke</string>
+    <string name="change_language">Promjeni jezik</string>
+    <string name="delete">Obriši</string>
+    <string name="delete_note">Izbriši bilješku</string>
+    <string name="confirm_delete">Jesi li siguran da želiš izbrisati ovu bilješku?</string>
+    <string name="note_title">Naslov bilješke</string>
+    <string name="created_at">Stvoreno:</string>
+    <string name="last_edited">Izmjenjeno:</string>
+    <string name="sort_by_title">Po naslovu bilješke</string>
+    <string name="sort_by_date">Po datumu izrade</string>
+    <string name="sort_notes">Sortiraj bilješke</string>
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="login">Prijava</string>
+    <string name="register">Registracija</string>
+    <string name="go_to_register">Kreiraj račun</string>
+    <string name="logout">Odjava</string>
+    <string name="fill_all_fields">Molimo ispunite sva polja</string>
+    <string name="user_exists">Korisnik već postoji</string>
+    <string name="registered_successfully">Uspješna registracija</string>
+    <string name="invalid_credentials">Neispravno korisničko ime ili lozinka</string>
+    <string name="back_to_login">Već imate račun? Prijavite se</string>
+    <string name="no_account_register">Nemaš račun? Registriraj se</string>
+    <string name="confirm_logout">Jeste li sigurni da se želite odjaviti?</string>
+    <string name="export_to_txt">Izvezi u TXT</string>
+    <string name="title">Naslov</string>
+    <string name="created">Stvoreno</string>
+    <string name="updated">Ažurirano</string>
+    <string name="text">Tekst</string>
+    <string name="export_success">Izvoz uspješan</string>
+    <string name="notes_saved_to">Bilješke spremljene u:</string>
+    <string name="export_failed">Izvoz nije uspio</string>
+    <string name="error">Greška</string>
+    <string name="back_to_notes">Nazad na bilješke</string>
+    <string name="my_notes">Moje bilješke</string>
+    <string name="new_note">Nova bilješka</string>
+    <string name="edit_note">Uredi bilješku</string>
+    <string name="access_denied">Pristup odbijen</string>
+    <string name="not_authorized">Nemate dopuštenje za pregled ove bilješke.</string>
+
+</resources>

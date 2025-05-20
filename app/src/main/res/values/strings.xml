@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_hint">Enter your note here</string>
+    <string name="save">Save</string>
+    <string name="notes">Notes</string>
+    <string name="change_language">Change Language</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note">Delete note</string>
+    <string name="confirm_delete">Are you sure you want to delete this note?</string>
+    <string name="note_title">Note title</string>
+    <string name="created_at">Created at:</string>
+    <string name="last_edited">Last edited:</string>
+    <string name="sort_by_title">By Title</string>
+    <string name="sort_by_date">By Date</string>
+    <string name="sort_notes">Sort notes</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="go_to_register">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="user_exists">User already exists</string>
+    <string name="registered_successfully">Registered successfully</string>
+    <string name="invalid_credentials">Invalid username or password</string>
+    <string name="back_to_login">You already have an account? Sign in</string>
+    <string name="no_account_register">You do not have an account? Sign up</string>
+    <string name="confirm_logout">You sure you want to logout?</string>
+    <string name="export_to_txt">Export to TXT</string>
+    <string name="title">Title</string>
+    <string name="created">Created</string>
+    <string name="updated">Updated</string>
+    <string name="text">Text</string>
+    <string name="export_success">Export successful</string>
+    <string name="notes_saved_to">Notes saved to:</string>
+    <string name="export_failed">Export failed</string>
+    <string name="error">Error</string>
+    <string name="back_to_notes"> Back to Notes</string>
+    <string name="my_notes">My notes</string>
+    <string name="new_note">New note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="access_denied">Pristup odbijen</string>
+    <string name="not_authorized">Nemate dopuštenje za pregled ove bilješke.</string>
+
+
+</resources>
